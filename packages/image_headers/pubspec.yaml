@@ -1,0 +1,10 @@
+name: image_headers
+description: Utiliites for getting image metadata from raw encoded image bytes.
+version: 1.0.0
+homepage: https://github.com/flutter/packages/tree/master/packages/image_headers
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dev_dependencies:
+  test: ^1.12.0
